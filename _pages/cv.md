@@ -11,49 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. History/City and Regional Planning, California Polytechnic State University-San Luis Obispo, 2019
+* M.U.P. Transportation Planning, University of Southern California, 2021 (expected)
 
-Work experience
+Selected Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 1/2020 - 8/2020: Transportation Policy Intern, Office of Councilmember Mike Bonin
+  * Support the councilmember in his role as chair of the city’s transportation committee and as a member of LA Metro’s Board of Directors.
+  * Research and develop policy recommendations on transportation finance, regulation, and capital projects based on best practices from other jurisdictions, leading to concrete improvements in city and Metro transportation policies. 
+  * Early in the COVID-19 pandemic, independently developed and oversaw implementation of policies drawing on best practices from public health authorities and other transportation agencies to protect Metro and LADOT operators and riders.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 9/2019 - 9/2020: Student Worker, METRANS University Transportation Center
+  * Lead a team to define and implement internal marketing strategies in support of METRANS’s mission to train the next generation of the transportation workforce.
+  * Independently develop and write articles for METRANS weekly newsletter for an audience of academics and transportation professionals.
+  * As leader of a team of fellow students, supervise the use of G Suite to communicate with, survey, and track academic, student, and professional event attendees and other participants in METRANS activities. Compile reports for both internal and public use.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Transportation data science and visualization
+  * Software used: Python, R, Adobe Creative Suite, ArcGIS
+* MS Office Suite
+* Video production
+
+Public Service
+======
+* 11/2018 - 5/2019: Student Representative, City of San Luis Obispo Mass Transportation Committee
+  * As the student-government designated representative of the student body, advised the local transit agency, SLO Transit, on issues relating to students and student transportation.
+  * Advocated for student interests during procurement and schedule development processes.
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
