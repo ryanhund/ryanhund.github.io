@@ -1,6 +1,6 @@
 ---
 title: "MUP Capstone Project"
-excerpt: "Accessibility and Site Planning in Watts, CA<br/><img src='/images/walking.png'>"
+excerpt: "Accessibility and Site Planning in Watts, CA<br/><img src='/images/walking_thumb.png'>"
 collection: portfolio
 ---
 
@@ -14,3 +14,13 @@ The City of Los Angeles has an exciting opportunity to develop a 10-acre brownfi
 <img src='/images/ampeak.png'>
 <br/>
 <img src='/images/driving.png'>
+
+## Amenity Accessibility
+### What amenities are accessible to Watts residents traveling on foot?
+
+<img src='/images/aaccessibility.png'>
+
+## Transit Improvements
+### Reimagining existing transit service to better serve residents' needs.
+
+<img src='/images/dash_combined.png'>
