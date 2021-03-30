@@ -1,7 +1,16 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "MUP Capstone Project"
+excerpt: "Accessibility and Site Planning in Watts, CA<br/><img src='/images/walking.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The City of Los Angeles has an exciting opportunity to develop a 10-acre brownfield site in Watts. MUP students were approached to analyze the site and surrounding community and develop plans for the site's development.
+
+## Transportation Accessibility
+### How far can residents of Watts travel in 15, 30, and 45 minutes by walking, transit and private car?
+
+<img src='/images/walking.png'>
+<br/>
+<img src='/images/ampeak.png'>
+<br/>
+<img src='/images/driving.png'>
