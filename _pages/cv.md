@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.A. History/City and Regional Planning, California Polytechnic State University-San Luis Obispo, 2019
+* B.A. History/City and Regional Planning, California Polytechnic State University - San Luis Obispo, 2019
 * M.U.P. Transportation Planning, University of Southern California, 2021 (expected)
 
 Selected Work Experience
